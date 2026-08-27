@@ -6,4 +6,4 @@
 
 # Tech Stack
 
-![Kali Linux](https://shields.io)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
